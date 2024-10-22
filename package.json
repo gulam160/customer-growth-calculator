@@ -1,0 +1,21 @@
+{
+  "name": "customer-growth-calculator.ts",
+  "version": "1.0.0",
+  "description": "Customer Growth Calculator in Node.js that will project the number of customers for the next 5 years based on a monthly growth rate and initial number of customers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "ts-node src/index.ts"
+  },
+  "keywords": [],
+  "author": "Gulam Mustafa",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.5.13",
+    "@types/node": "^22.7.8",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
+  }
+}
